@@ -1,4 +1,4 @@
-# Dashboard Project using Pivot Table and Slicer
+# Sales Data dashboard
 
 ## Overview
 This project demonstrates how to create an interactive dashboard using **Pivot Tables** and **Slicers** in Excel. The dashboard allows users to analyze data dynamically by applying different filters and viewing insights efficiently.
